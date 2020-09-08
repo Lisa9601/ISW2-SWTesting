@@ -1,4 +1,4 @@
-#BookKeeper
+# BookKeeper
 Esecuzione dei test:
 
 mvn verify
@@ -8,7 +8,7 @@ Esecuzione di PIT:
 mvn verify org.pitest:pitest-maven:mutationCoverage 
 
 
-#Storm
+# Storm
 Esecuzione dei test:
 
 mvn verify
